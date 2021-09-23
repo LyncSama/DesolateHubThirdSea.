@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("รอสคริปอัพเดท เพื่อความปลอดถัยของพวกมึงทุกคน")
+game.Players.LocalPlayer:Kick("รอสคริปอัพเดท เพื่อความปลอดภัยของพวกมึงทุกคน")
